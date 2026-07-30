@@ -120,14 +120,6 @@ export default function Contact() {
                   <i className="fab fa-github"></i>
                 </a>
 
-                <a
-                  href="https://instagram.com/varadb.28"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <i className="fab fa-instagram"></i>
-                </a>
-
               </div>
 
             </div>
