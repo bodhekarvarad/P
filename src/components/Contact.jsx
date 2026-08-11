@@ -3,14 +3,14 @@ import emailjs from "@emailjs/browser";
 import "./contact.css";
 
 export default function Contact() {
-  const [formData, setFormData] = useState({
+  const [formData, setFormData]=useState({
     name: "",
     email: "",
     subject: "",
     message: "",
   });
 
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading]=useState(false);
 
   const handleChange = (e) => {
     setFormData((prev) => ({
