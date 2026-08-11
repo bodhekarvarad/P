@@ -34,7 +34,7 @@ const Hero = () => {
             </button>
            </Link>
             <a
-              href="/resume.pdf"
+              href="/Varad_Bodhekar_Resume_General.pdf"
               download
               className="btn btn-outline-light"
             >
