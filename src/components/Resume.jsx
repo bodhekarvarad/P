@@ -22,7 +22,7 @@ const Resume = () => {
          
           <div className="col-12 col-lg-4 text-center text-lg-end mt-4 mt-lg-0">
             <a
-              href="/resume.pdf"
+              href="/Varad_Bodhekar_Resume_General.pdf"
               download
               className="btn btn-primary resume-btn"
             >
